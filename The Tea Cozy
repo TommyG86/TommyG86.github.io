@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Tea Cozy</title>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+  </head>
+  <body>
+    <section class="nav-container">
+      <img
+        src="https://content.codecademy.com/courses/freelance-1/unit-4/img-tea-cozy-logo.png?_gl=1*6aci1k*_ga*NjU3ODI0NjA1NS4xNjYxNzE5NjIx*_ga_3LRZM6TM9L*MTY2NzUwMTc3MS40Mi4xLjE2Njc1MDk3NTIuNDEuMC4w"
+        class="logo"
+      />
+      <div class="nav-bar">
+        <ul id="nav">
+          <li>Mission</li>
+          <li>Featured Tea</li>
+          <li>Locations</li>
+        </ul>
+      </div>
+    </section>
+    <section>
+      <div>
+        <h2>Our Mission</h2>
+        <h4>
+          Handpicked, Artisanlly curated, Free Range, Sustainable, Small Batch,
+          Free Trade, Organic Tea
+        </h4>
+      </div>
+    </section>
+    <section>
+      <div>
+        <h2>Tea Of The Month</h2>
+        <h4>What's Steeping at The Tea Cozy?</h4>
+      </div>
+      <div class="tea-images">
+        <img
+          src="https://content.codecademy.com/courses/freelance-1/unit-4/img-berryblitz.jpg?_gl=1*1oadb7w*_ga*NjU3ODI0NjA1NS4xNjYxNzE5NjIx*_ga_3LRZM6TM9L*MTY2NzUwMTc3MS40Mi4xLjE2Njc1MTA0NjYuNDQuMC4w"
+        />
+        <p>Fall Berry Blitz Tea</p>
+      </div>
+      <div>
+        <img
+          src="https://content.codecademy.com/courses/freelance-1/unit-4/img-spiced-rum.jpg?_gl=1*hdgrwr*_ga*NjU3ODI0NjA1NS4xNjYxNzE5NjIx*_ga_3LRZM6TM9L*MTY2NzUwMTc3MS40Mi4xLjE2Njc1MTA0NjYuNDQuMC4w"
+        />
+        <p>Spiced Rum Tea</p>
+      </div>
+      <div>
+        <img
+          src="https://content.codecademy.com/courses/freelance-1/unit-4/img-donut.jpg?_gl=1*1widy4f*_ga*NjU3ODI0NjA1NS4xNjYxNzE5NjIx*_ga_3LRZM6TM9L*MTY2NzUwMTc3MS40Mi4xLjE2Njc1MTA0NjYuNDQuMC4w"
+        />
+        <p>Seasonal Donuts</p>
+      </div>
+      <div>
+        <img
+          src="https://content.codecademy.com/courses/freelance-1/unit-4/img-myrtle-ave.jpg?_gl=1*x4d2xg*_ga*NjU3ODI0NjA1NS4xNjYxNzE5NjIx*_ga_3LRZM6TM9L*MTY2NzUwMTc3MS40Mi4xLjE2Njc1MTA0NjYuNDQuMC4w"
+        />
+        <p>Myrtle Ave Tea</p>
+        <div>
+          <img
+            src="https://content.codecademy.com/courses/freelance-1/unit-4/img-bedford-bizarre.jpg?_gl=1*5dpmfi*_ga*NjU3ODI0NjA1NS4xNjYxNzE5NjIx*_ga_3LRZM6TM9L*MTY2NzUwMTc3MS40Mi4xLjE2Njc1MTA0NjYuNDQuMC4w"
+          />
+          <p>Bedford Bizzare Tea</p>
+        </div>
+      </div>
+    </section>
+    <section class="locations-container">
+      <h2 id="locations">Locations</h2>
+      <div class="location-container1">
+        <div class="location">
+          <h3>Downtown</h3>
+          <h4>384 West 4th Street</h4>
+          <h4>Suite, 108</h4>
+          <h4>Portland, Maine</h4>
+        </div>
+        <div class="location">
+          <h3>East Bayside</h3>
+          <h4>3433 Phisherman's Ave</h4>
+          <h4>(Northwest Corner)</h4>
+          <h4>Portland, Maine</h4>
+        </div>
+        <div class="location">
+          <h3>Oakdale</h3>
+          <h4>515 Crescent Ave</h4>
+          <h4>Second Floor</h4>
+          <h4>Portland, Maine</h4>
+        </div>
+      </div>
+    </section>
+    <div class="contact-info">
+      <h4>The Tea Cozy</h4>
+      <h5>contact@theteacozy.com</h5>
+      <p>917-555-8904</p>
+    </div>
+    <footer>
+      <p>Copyright The Tea Cozy 2022</p>
+    </footer>
+  </body>
+</html>
